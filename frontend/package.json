@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.6.0",
+    "@reduxjs/toolkit": "^2.0.0",
+    "react-redux": "^8.1.0",
+    "socket.io-client": "^4.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
